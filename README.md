@@ -6,3 +6,4 @@
 # 示例图
 ![image](https://github.com/jiachongliu/DivideTheDataset/tree/master/image/1.png)
 ![image](https://github.com/jiachongliu/DivideTheDataset/tree/master/image/2.png)
+![Alt text](image/1.png)
